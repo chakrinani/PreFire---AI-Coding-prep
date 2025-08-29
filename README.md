@@ -115,11 +115,4 @@ REACT_APP_FIREBASE_CONFIG={"apiKey":"<key>","authDomain":"<domain>","projectId":
 
 MIT License © 2025 [chakrinani](https://github.com/chakrinani)
 
-```
 
----
-
-👉 Just copy this whole block and paste into your GitHub `README.md`, then hit **Commit changes**.  
-
-Do you want me to also add **fancy badges (build, license, tech stack)** at the top so the README looks like a professional open-source project?
-```
